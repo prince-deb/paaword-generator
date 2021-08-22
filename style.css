@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    color:orange;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    background-color: lightcyan;
+}
+.name_of_objects{
+    color: orangered;
+}
+#Camera{
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 300px;
+}
+#Camera2{
+    border: 2px dashed darkblue;
+    width: 350px;
+    height: 300px;
+    box-align:left
+}
